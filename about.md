@@ -1,18 +1,26 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Just a lad from the North of England who likes warhammer and miniature wargaming.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Been into Warhammer since the late 90's.
 
-If you have a question about him or else, just send a letter to him.
+Dragged my mum into town to spend some birthday money on a video game for the crappy computer I had managed to cobble together at the time. Not finding any games I liked at the stores I knew, we walked into a store called "Games Workshop".
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+There were no video games. But they had the coolest little plastic soldiers, and you had to paint them, but then once you painted them you actually got to play a game with them! It wasn't like Airfix! (I'd done a few Airfix kits already at this point)
 
-**may u needs ✨**
+Long story short I got hooked into the world of Warhammer, specifically 40k as the sci-fi aspect really reached out and grabbed me and my young impressionable mind. Many years later I now have a job which affords me a decent amount of disposable income which I am more than happy to spend on overpriced plastic soldiers :)
+
+I've never been a big player of the game though, my things have always been the collecting, painting, and modelling. And in the last few years I've really started enjoying the lore and some of the stories from the Warhammer universe (both 40k and the Fantasy settings).
+
+Orks and Chaos are my beloved, but I've also become quite fond of the Drukhari and anything that can encourages kitbashing.
+
+One day I'll get around to assembling my Knights.
+
+**The Imperium is Cringe, Embrace Chaos**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
