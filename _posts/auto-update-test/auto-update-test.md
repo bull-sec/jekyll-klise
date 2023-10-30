@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: auto update test
 date: 2023-10-30 01:00 +0700
@@ -10,3 +10,4 @@ tag:
 image: /cara-memperbarui-fork-repository/repo.png
 ---
 
+blah blah blah
