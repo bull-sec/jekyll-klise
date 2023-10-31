@@ -18,9 +18,6 @@ I've never been a big player of the game though, my things have always been the 
 
 Orks and Chaos are my beloved, but I've also become quite fond of the Drukhari and anything that can encourages kitbashing.
 
-One day I'll get around to assembling my Knights.
+One day I'll get around to assembling my Knights...
 
 **The Imperium is Cringe, Embrace Chaos**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
