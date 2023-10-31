@@ -2,12 +2,14 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Papa Nurgles Blessings Upon You
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+Just want to say a big thank you to the folks who make the things that inspire me to continue with this hobby. You're all amazing! 
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Special shoutout goes to @Luetin09, even if he is an Ultramarines simp :D
+
+And thunderwulfen on Instagram, those Soul Haunters are so good!
