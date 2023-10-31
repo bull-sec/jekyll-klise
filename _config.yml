@@ -14,7 +14,7 @@ author:
   bio: >- # tell to the world
     Just a lad with a penchant for plastic.
   username: username # general username
-  github: github_username # github username
+  github: bull-sec # github username
   twitter: PaintsPlastic # twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
@@ -58,7 +58,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 10
 
 # Build settings
 # theme: klise
