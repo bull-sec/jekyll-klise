@@ -12,7 +12,7 @@ HAPPY HALLOWEEN! Hope you all have a spooky but fun day!
 
 This is the first official post on this blog. So, to ease us in here's a scary story about how I spent a lot of money because I have no impulse control.
 
-A few weeks ago I was up in Stockport doing a few bits, as I'm walking around I was listening to old Adeptus Ridiculous podcasts, and they were talking about Drukhari, an faction I've always been fascinated with. Long story cut short, my travels took me towards a place I should never be allowed near. Element Games.
+A few weeks ago I was up in Stockport doing a few bits, as I'm walking around I was listening to old Adeptus Ridiculous podcasts, and they were talking about Drukhari, a faction I've always been fascinated with. Long story cut short, my travels took me towards a place I should never be allowed near. Element Games.
 
 Element Games is a Games Workshop reseller (amongst other things) and you can get some nice discounts from official GW pricing. I took a look at their site and they said they had a bunch of stock, so I had them bring me a few bits...
 
