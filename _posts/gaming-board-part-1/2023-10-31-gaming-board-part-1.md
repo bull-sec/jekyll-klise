@@ -10,6 +10,8 @@ usemathjax: true
 
 I've always been fascinated with building terrain and scenery for wargaming, many moons ago I even owned a copy of "How to make Wargames Terrain" as published by Games Workshop. I think back then I made a house and a hill, but never really ventured any further as I didn't really play the game and was suffering from a chronic lack of disposable income.
 
+![How to Make Wargames Terrain](https://m.media-amazon.com/images/I/A1pf+JTwbaL._AC_UF894,1000_QL80_.jpg)
+
 Well, times change, and I want to get into playing more, and I have a bit more disposable income these days. So I said "screw it" and decided that I needed a gaming board in my life.
 
 ## Design Choices
