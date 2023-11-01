@@ -8,4 +8,4 @@ published: true
 usemathjax: true
 ---
 
-[TEST](https://imgur.com/wkDka4J)
+![TEST](https://imgur.com/wkDka4J)
