@@ -21,6 +21,7 @@ Before I started work I set out some basic requirements for the board, as while 
 - Must be modular/collapsible
 - Should be big enough to host a full size 40k game
 - Needs to be compact enough to fit in the corner of my hobby room when it's not in use
+- Doesn't need to break the bank, so should be as cheap as you can get away with
 
 I watched hours of YouTube videos, and took a dive into the depths of the internet to find inspiration. And [eventually I came across this blog](https://waaaghblog.com/mordheim-board-part-1-the-foundation/). The size of the board was a bit too big for me to store, but the idea of having an "inside" to the board which instantly gives it a degree of verticallity appealed to me, and would be great for games like Mordheim or Necromunda. So the final idea was born, and would take the following form:
 
