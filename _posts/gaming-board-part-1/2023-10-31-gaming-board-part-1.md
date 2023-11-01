@@ -29,9 +29,11 @@ I watched hours of YouTube videos, and took a dive into the depths of the intern
 
 ## Initial Construction
 
-I suck at woodwork.
+Disclaimer: I suck at woodwork, and I was rushing because I was excited. Please don't give me too much crap for the state of the joins you're about to see :D
 
-I don't have the proper tools, and I don't have a dedicated space to work in, but that's not a major issue when places like B&Q exist (generic hardware store in the UK). I popped along and picked up some MDF and pine boards, and had them cut it all to size for me on their giant wall saw, I then had to get it all back home on a train but that's a story for another time.
+I don't have the proper tools to do large cuts, but that's not a major issue when stores like B&Q exist (general hardware store in the UK that provide a timber cutting service). I popped along and picked up some MDF and pine boards, and had them cut it all to size for me on their giant wall saw. I then had to get it all back home on a train but that's a story for another time.
 
 Picked up a few extra bits and pieces like a new saw, nails and some wood glue while I was in B&Q, and set to work on building 4 "boxes".
+
+[Imgur](https://i.imgur.com/sxRShZZ.jpg)
 
