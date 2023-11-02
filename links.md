@@ -11,9 +11,9 @@ Decided to make a list of the channels I follow and blogs/websites I frequent, p
 ## Websites
 
 - [Tale of Painters](https://taleofpainters.com) - Garfy and Stahly are two of my favourite miniature painters, their tutorials are excellent, and ToP has been in my bookmarks for a heck of a long time
-- [CoolMiniOrNot] - Rate my mini dot com. Post your minis, get ridiculed, or be praised, the internet will decide your fate
-- [DakkaDakka.com](https://dakkadakka.com) - CoolMiniOrNot, but the one that never left the early 00's design wise, loads of good stuff to marvel at, and loads of bad stuff to giggle at
-- 1D4Chan RIP - The original place to go for completely unbiased and accurate Warhammer lore
+- [CoolMiniOrNot](https://www.coolminiornot.com/browse) - Rate my mini dot com. Post your minis, get ridiculed, or be praised, the internet will decide your fate
+- [DakkaDakka.com](https://dakkadakka.com) - CoolMiniOrNot, but the version that never left the early 00's design wise, loads of good stuff to marvel at, and loads of bad stuff to giggle at
+- **1D4Chan** RIP - The original place to go for completely unbiased and accurate Warhammer lore
 - [Wahapedia](https://wahapedia.ru) - Based. If you don't know, get to know (and save an offline copy)
 - [Cults3D](https://cults3d.com) - Nice site for STLs for 3D printers, the prices range from free, to reasonable, to downright extortion.
 
