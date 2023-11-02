@@ -55,7 +55,7 @@ Picked up a few extra bits and pieces like a new saw, nails and some wood glue w
 *And on the dining room table with the XPS toppers*
 
 ![One more from the dining room table featuring my washing machine, Frank and Geoff, the Plaugebearers, and a cutting mat](https://i.imgur.com/qMnIDBR.jpg)
-*ne more from the dining room table featuring my washing machine, Frank and Geoff, the Plaugebearers, and a cutting mat*
+*One more from the dining room table featuring my washing machine, Frank and Geoff, the Plaugebearers, and a cutting mat*
 
 ![Frank and Geoff are big fans](https://i.imgur.com/qXuwRbR.jpg)
 *Frank and Geoff are big fans*
