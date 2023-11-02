@@ -10,12 +10,12 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: PaintsPlastic # author name
+  name: "@PaintsPlastic" # author name
   bio: >- # tell to the world
     Just a lad with a penchant for plastic.
-  username: PaintsPlastic # general username
+  username: "@PaintsPlastic" # general username
   github: bull-sec # github username
-  twitter: PaintsPlastic # twitter username
+  twitter: "@PaintsPlastic" # twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
   avatar: /assets/img/avatar_small.png # change with your own avatar
