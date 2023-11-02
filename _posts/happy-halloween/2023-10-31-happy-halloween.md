@@ -2,7 +2,7 @@
 layout: post
 title:  Happy Halloweeen
 date:   2023-10-31 00:00:00 +0000
-categories: intro halloween drukhari 40k
+tags: intro halloween drukhari 40k
 published: true
 description: SPOOKY TIMES
 usemathjax: true

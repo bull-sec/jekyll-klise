@@ -3,6 +3,7 @@ layout: post
 title: "Poor Financial Decisions"
 description: "I should not be allowed to have money and an internet connection"
 date: 2023-11-02 03:00:00 00:00:00 +0000
+tags: 30k horusheresy chaos
 published: true
 ---
 

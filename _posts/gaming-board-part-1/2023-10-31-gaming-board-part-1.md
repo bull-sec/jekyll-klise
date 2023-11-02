@@ -3,7 +3,7 @@ layout: post
 title: "Making a Gaming Board: Part 1"
 description: "An adventure in crafting!"
 date:   2023-11-01 00:00:00 +0000
-categories: intro halloween gamingboard 40k mordheim crafting
+tags: intro halloween gamingboard 40k mordheim crafting terrain
 published: true
 usemathjax: true
 ---
