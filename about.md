@@ -6,18 +6,46 @@ excerpt: Just a lad from the North of England who likes warhammer and miniature 
 comments: false
 ---
 
-Been into Warhammer since the late 90's.
+So, a little bit about me.
 
-Dragged my mum into town to spend some birthday money on a video game for the crappy computer I had managed to cobble together at the time. Not finding any games I liked at the stores I knew, we walked into a store called "Games Workshop".
+Born and raised in Liverpool, even got the accent to prove it.
 
-There were no video games. But they had the coolest little plastic soldiers, and you had to paint them, but then once you painted them you actually got to play a game with them! It wasn't like Airfix! (I'd done a few Airfix kits already at this point)
+I hate politics, I hate talking about politics, and I hate people who make politics their personality, so you won't get any of that here. This is a truly safe space just for hobby related things.
 
-Long story short I got hooked into the world of Warhammer, specifically 40k as the sci-fi aspect really reached out and grabbed me and my young impressionable mind. Many years later I now have a job which affords me a decent amount of disposable income which I am more than happy to spend on overpriced plastic soldiers :)
+Now onto the important stuff!
 
-I've never been a big player of the game though, my things have always been the collecting, painting, and modelling. And in the last few years I've really started enjoying the lore and some of the stories from the Warhammer universe (both 40k and the Fantasy settings).
+I've been into Warhammer and scale modelling since the late 90's.
 
-Orks and Chaos are my beloved, but I've also become quite fond of the Drukhari and anything that can encourages kitbashing.
+The addiction started around 1996. I dragged my mum into town to spend some birthday money on a video game for the crappy computer I had managed to cobble together at the time. Not finding any games I liked (or that my crappy PC would be able to play) at the stores I knew, we walked into a store called "Games Workshop".
 
-One day I'll get around to assembling my Knights...
+I'd already done a few Airfix kits (scale model planes mostly), and I remember being disappointed that once you were done building and painting them there was nothing to do afterwards, you just sort of hung them from the ceiling or put them on a shelf and that was that. There was no game to play with your awesomely painted planes and tanks.
+
+The models in Games Workshop were different though, not only did they look **way** cooler than the Spitfires and Lancasters I'd been building, but you got to play with them after you were done assembling and painting them! And the game was a war game where you got to roll dice to figure out if something died or not! I was instantly hooked.
+
+From then on I'd go to the store most weekends, paint a mini, play a game, occassionaly buy a model with saved up paper-round/pocket money. Mum was quite happy to leave me in there for an hour or two on a Sunday (shoutout to the GW store Manager who looked after me) and head off for a coffee in the cafe next door while I played with plastic soldiers, and that carried on for a good long time.
+
+Then there was a series of unfortunate events.
+
+Our pipes burst one winter, all my Codex, Rule books and loads of my paints and terrain I'd made were ruined. Then a group of lads I thought were my friends stole loads of the remaining minis. I never got most of them back apart from a few very battered Space Marine scouts :(
+
+With no minis to paint, and no books to read, I got into music instead and for the good while all I wanted to do was be a DJ/Producer. I'm actually not terrible, but wasn't dedicated enough to actually turn it into a career sadly.
+
+Left school at 16 without much in the way of qualifications, bounced from crappy job to crappy job for a long time, then one day decided "this is dumb", quit my job, and went back to school.
+
+I used to have a good 90 minute journey to lectures, so I started getting into reading and audiobooks to pass the time. And it was around that time that HumbleBundle started doing their book bundles, and I picked up a load of the Horus Heresy books. I'd been very casually following Warhammer over the years (heading to [Tale of Painters](https://taleofpainters.com) every now and again and checking out the minis, etc.) but I'd avoided the hobby due to lack of money.
+
+On the way to University each day I'd pass the Games Workshop store.
+
+And one day I decided to pop in...
+
+That little diversion and the Horus Heresy books I'd been reading had me fully hooked again.
+
+Fast forward a few years, I graduated University and got myself a job that actually paid a decent wage.
+
+Now that I've settled down I've found myself with far more free time on my hands, and what better way to spend it than doing something I've enjoyed since I was 10.
+
+I started this blog to document my projects, and force me to put stuff out so I don't feel ashamed of having a dead blog.
+
+You'll find all kinds on here, not strictly limited to GW products, but heavily featuring their games and miniatures.
 
 **The Imperium is Cringe, Embrace Chaos**

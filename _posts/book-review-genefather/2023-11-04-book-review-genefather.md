@@ -13,7 +13,7 @@ I've never written one of these before so bear with me :)
 
 Genefather by Guy Haley is the latest book to feature everyones favourite Mechanicus character, Belasarius Cawl. The plot is fairly straightforwards, Cawl is trying to get support to do *something* about the Cicatrix Maledictum, and heads off to petition some Houses of Mars for support. Meanwhile Fabius Bile is on the prowl, and has his eyes on the artifact that that Guilliman gave to Cawl which contains essentially the blueprints for the creation of the Primarchs, the Sangprimus Portum. This sets up a nice little confrontation between the two characters at the end of the book where we get a bunch of lore reveals and some intruging threads to pull on for future stories.
 
-One of the things I did enjoy is the consistency in Fabius Biles character despite this book being written by a different author to the Fabius Bile series of books (a review of which is in the works). He (Bile) is (in my opinion) one of the more interesting characters in the 40k universe, and we get to see that in this book. We don't get quite the same amount of insight into his character and the goings on of his Consortium in this book, but this time Bile is here to be the antagonist so that can be forgiven.
+One of the things I did enjoy is the consistency in Fabius Biles character despite this book, being it written by a different author to the Fabius Bile series of books (a review of which is in the works). He (Bile) is (in my opinion) one of the more interesting characters in the 40k universe, and we get to see that in this book. We don't get quite the same amount of insight into his character and the goings on of his Consortium in this book, but this time Bile is here to be the antagonist so that can be forgiven.
 
 
 
@@ -45,7 +45,9 @@ This book added fuel to a particular question that's been gnawing at the back of
 
 Bile himself would tell you that he is nothing like the Chaos Space Marines, and looks upon them as degenerates that gave in to their baser instincts. And the more I read of Bile the more I'm inclined to think that he is a Renegade. The facts speak fairly loudly as well; Bile has repeatedly declared his disdain for Chaos and the powers of the Warp, even going so far as to call a Keeper of Secrets a "Figment" to it's face. He can also be quite merciful, and he doesn't kill for the sake of killing as so many of his former bretheren, he detests waste, and the gleeful slaughter they engage in during combat just looks to him to be a waste of potentially valuable material for his research and experiments.
 
-We see the "mercy" he shows in the final confrontation with Cawl, he could quite easily have murdered Cawl (or rather Porta could have) and 
+We see the "mercy" he shows in the final confrontation with Cawl, he could quite easily have murdered Cawl (or rather Porta could have) but he doesn't because he seems to actually respect Cawl, especially the work he has done.
+
+
 
 - Doesn't think of himself as a Chaos Space Marine
 - Wants to "save humanity"
@@ -58,11 +60,9 @@ I found the bits with Qvo-88/89 fascinating. Cawl clearly has a lot of affection
 
 ## Alpha Primarus
 
-Oh boy, lets try and unwrap whatever the heck is going on here.
+OK, so at no point in the story do any of the characters blatantly say it, but it's heavily implied that Cawl has created his own Primarch in Alpha Primaris, with Cawl referring to him as "my son" during a conversation with Bile. Or at least that was my takeaway from that exchange.
 
-OK, so at no point in the story do any of the characters blatantly say it, but it's heavily implied that Cawl has created his own Primarch in Alpha Primaris, with Cawl referring to him as "my son" during a conversation with Bile. Or at least that was my takeaway.
-
-This has some serious implications if it's accurate. Does this open the door to new Primarchs being created? Cawl still has access to the Sangprimus Portum, but it sounds like it took him a LONG time to make Alpha Primaris, so maybe not? 
+This has some serious implications if it's accurate. Does this open the door to new Primarchs being created? Cawl still has access to the Sangprimus Portum, but it sounds like it took him a LONG time to make Alpha Primaris, so maybe not something we're likely to see any time soon? Very interesting to see where this story thread leads, which is a theme with this book unfortunately, that it doesn't resolve much and leaves one wanting answers to more questions.
 
 ## A word on FSMs
 
@@ -75,8 +75,6 @@ The idea that Bile has created his own "new humans" might be what's adding fuel 
 Perhaps it's the idea of Cawl creating Alpha Primaris. There are some very interesting story threads to pull on here, but I just didn't see anything that particularly jumped out to me as hinting that the lore would be changing to make Female Space Marines a thing.
 
 At the end of the day, until GW say "FSM is now a thing" it isn't a thing, and we can debate about it until the cows come home but nothing will change. 
-
-My overall opinion on the subject, just for the record, is that I don't think FSM add anything of real value to the setting or hobby, and that adding *more* Marines is quite a boring thing for GW to do in general. This isn't a politically motivated opinion, and I'm not getting into gender politics, I say this from a pure hobbyist standpoint, I just don't see it really changing much. That being said, if you want to kitbash some female heads onto your Marines and run them as FSM, go for it, it doesn't bother me in the slightest. Warhammer is for everyone except people who want to be dickheads, and that door swings both ways, you can be a left-wing dickhead and a right-wing dickhead or you can just roll dice, paint models, and have fun doing it.
 
 I'll refrain from going into this any further for fear of enraging one side or the other in this debate and getting drawn into a political debate.
 
