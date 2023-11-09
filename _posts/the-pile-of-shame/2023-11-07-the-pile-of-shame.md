@@ -21,8 +21,8 @@ OK, lets break down the contents of the pile and put the true levels of my shame
 
 From the top of the pile:
 
-- 2x Wardog Armiger/Helverin box
-- 3x Wardog Karnivore/Executioner/Brigand box
+- 2x Wardog Armiger/Helverin boxes
+- 3x Wardog Karnivore/Executioner/Brigand boxes
 - 1x Knight Tormentor
 - 1x Knight Abominant
 
@@ -34,7 +34,7 @@ From the top of the pile:
 - 1x Kabalite box\*
 - 1x Crimson Court box
 
-(and that'll be a big chunk of a Drukhari army...\*the sprues are inside the Combat Patrol boxes)
+(and that'll be a big chunk of a Drukhari army...\*the sprues are inside the Combat Patrol boxes to save shelf space)
 
 - Cursed City
 - Blackstone Fortress (minus one Kroot)
@@ -54,10 +54,9 @@ From the top of the pile:
 - 1x Box of Plague Marines
 - 1x Fabius Bile (I had to)
 - 1x Plague Marine Champion (for the Sassy Nurgling)
+- 1x Start Collecting Genestealer Cults box (minus one cultist head)
 
 That's just the stuff on the shelf still in boxes. I've got a couple of assembled squads and Necromunda gangs in my immediate TODO pile. (Escher Gang is on the hobby mat as I awkwardly type this over the top of them)
 
 The Chaos stuff has been sat around for a long time because I couldn't come up with a paint scheme, [but that's boxed off in my head now](https://paintsplastic.com/painting-the-court) so I'll be starting work on those soon(tm).
-
-
 
