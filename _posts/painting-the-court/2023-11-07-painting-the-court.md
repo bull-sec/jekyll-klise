@@ -12,15 +12,15 @@ If you're running a particular Chapter of Space Marines or faction of Drukhari t
 
 Coming up with one from scratch is MUCH harder.
 
-So, here's how I did it for The Court of the Abnegant King (my SM renegades/Chaos)
+So, here's how I did it for "The Court of the Abnegant King" my SM renegades/Chaos force that I've been working on for a *long* time now.
 
 ---
 
 First of all, we need to come up with some basic lore for our force, as that will likely help inform our later decisions.
 
-So for The Court, I decided that I was going to lead into the word "Abnegate" which means "to renounce or reject something". So my army is a collection of SM that have "renounced or rejected" their previous lives to join forces with The Abnegant King.
+So for The Court, I decided that I was going to lean into the word "Abnegate" which means "to renounce or reject something". So my army is a collection of SM that have "renounced or rejected" their previous lives to join forces with The Abnegant King.
 
-OK, so they have rejected something. In this case their Chapters and previous allegiances. How to symbolise rejection? Strip the armor of any symbology or colour tying it to another Chapter or Legion.
+OK, so they have rejected something. In this case their Chapters and previous allegiances. How to symbolise rejection? My first thought was just to simply strip the armor of any symbology or colour tying it to another Chapter or Legion.
 
 As you can see, just by focusing on one aspect of the army we've already got the start of a paint scheme going, we're looking for something quite bare, so we're likely looking at Beige-ish white to represent bare ceramite, or a dull grey/dull metal to represent scrubbed down armor.
 
@@ -28,7 +28,7 @@ So we've narrowed our base colour right down, and we can make a further decision
 
 > \* always bear in mind the amount of models you'll have to apply paint to when considering your paint scheme. All well and good to do Harlequinn style checkerboards, but can you do it another 50, 60, 100 times?
 
-Cool, so based on the name of the force, and the ease of being able to paint the chosen colour, we've got our base coat sorted.
+Cool, so based on the name of my main character, and the ease of being able to paint the chosen colour, we've got our base coat sorted.
 
 We could actually just leave it there, but I wanted them to have a mark that made them *mine*
 
