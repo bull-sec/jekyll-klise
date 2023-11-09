@@ -12,7 +12,8 @@ The piles range from a couple of minis, to entire armies. Much to my shame, mine
 
 I feel like using this as a bit of a therapy session and also take the time to make a list of the stuff I have to get through that's still sat in a box.
 
-![The Pile]()
+![The Pile](https://i.imgur.com/dPNI9ly.jpg)
+*Ignore the MPCs and the Crappy DJ Controller*
 
 Yeah, it's not a small pile.
 
