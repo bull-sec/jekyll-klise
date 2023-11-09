@@ -3,7 +3,7 @@ layout: post
 title: "Making a Gaming Board: Part 1"
 description: "An adventure in crafting!"
 date:   2023-11-01 00:00:00 +0000
-tags: intro halloween gamingboard 40k mordheim crafting terrain
+tags: gamingboard 40k mordheim crafting terrain
 published: true
 usemathjax: true
 ---
@@ -25,7 +25,7 @@ Before I started work I set out some basic requirements for the board, as while 
 
 I watched hours of YouTube videos, and took a dive into the depths of the internet to find inspiration. And [eventually I came across this blog](https://waaaghblog.com/mordheim-board-part-1-the-foundation/). The size of the board was a bit too big for me to store, but the idea of having an "inside" to the board which instantly gives it a degree of verticallity appealed to me, and would be great for games like Mordheim or Necromunda. So the final idea was born, and would take the following form:
 
-- 4, 60x60cm wooden "boxes" would form the base of the board (giving a total playing area of 120cm2)
+- 4, 60x60cm wooden "boxes" would form the base of the board (giving a total playing area of 120cm x 120cm, or 14,400 square centimeters)
 - The tops of the "boxes" would be left open
 - Inside of each "box" would be have a different theme
 - XPS foam would act as the "topper" so that was light and could be easily stored 
@@ -82,5 +82,6 @@ I have a cunning plan for how I'm going to reuse some of the inside sections to 
 
 OK, that's pretty much all I wanted to cover in this first post, I've got PLENTY more to document and loads more still to do. The goal is to get this project completed by Xmas, or at least get it to a point where games can be played.
 
-Keep your eyes peeled for Part 2.
+Keep your eyes peeled for [Part 2](https://paintsplastic.com/gaming-board-part-II).
 
+- Thanks to the person who spotted my spotty maths, it is now fixed :) 

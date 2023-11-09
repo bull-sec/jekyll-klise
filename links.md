@@ -8,6 +8,8 @@ comments: false
 
 Decided to make a list of the channels I follow and blogs/websites I frequent, partly as a shoutout, and partly for anyone who may not know about these awesome folks and would like some more Warhammer content in their lives.
 
+(these aren't in any particular order)
+
 ## Websites
 
 - [Tale of Painters](https://taleofpainters.com) - Garfy and Stahly are two of my favourite miniature painters, their tutorials are excellent, and ToP has been in my bookmarks for a heck of a long time
@@ -19,12 +21,12 @@ Decided to make a list of the channels I follow and blogs/websites I frequent, p
 
 ## Podcasts/Lore Channels
 
-- [Adeptus Ridiculous](https://www.adeptusridiculous.com/) - Brick, DK, and Shy host the 40k podcast with the excellent motto "Entertainment before accuracy"
-- [The Poorhammer Podcast](https://www.youtube.com/@thepoorhammerpodcast) - Brad and Eric host the Poorhammer podcast, they inadvertantly end up doing lots of maths and talk crap about Space Marines, very based
-- [Luetin09](https://www.youtube.com/channel/UC8RfCCzWsMgNspTI-GTFenQ) - The King of 40k Lore (imo), great to listen to when building or painting minis, his Ork videos are my personal favourite
+- [Adeptus Ridiculous](https://www.adeptusridiculous.com/) - Bricky, DK, and Shy host the excellent 40k podcast with the excellent motto "Entertainment before accuracy", please ignore the cat-girls.
+- [The Poorhammer Podcast](https://www.youtube.com/@thepoorhammerpodcast) - Brad and Eric host the Poorhammer podcast, they inadvertantly end up doing lots of maths and talk a lot of crap about Space Marines, very based
+- [Luetin09](https://www.youtube.com/channel/UC8RfCCzWsMgNspTI-GTFenQ) - The King of 40k Lore (imo), great to listen to when building or painting minis, his Ork videos are generally great but the Legion of the Damned is a personal favourite.
 - [Lorehammer Podcast(RIP)](https://www.youtube.com/channel/UCq9af4kjJ_XFpu3kObtUkZQ) - AKA a bunch of Canadians read the wiki and shout at each other. Was a great podcast while it lasted.
-- [DickCheck](https://www.youtube.com/@DiceCheck) - I'm gonna be honest, I just kinda love Bricky when he's in 40k mode, and who doesn't love a good battle report?
-- [MiniWarGaming](https://www.youtube.com/@miniwargaming) - The OGs of battle reports on YouTube, MWGDave has the most infectious enthusiasm, and the craziest Chaos army
+- [DiceCheck](https://www.youtube.com/@DiceCheck) - I'm gonna be honest, I just kinda love Bricky when he's in 40k mode, and who doesn't love a good battle report?
+- [MiniWarGaming](https://www.youtube.com/@miniwargaming) - The OGs of battle reports on YouTube, MWGDave has the most infectious enthusiasm, and the craziest Chaos army, love these guys.
 - [Arch](https://www.youtube.com/watch?v=sTSA_sWGM44) - My favouritest of the lot\*
 
 
@@ -40,4 +42,4 @@ Decided to make a list of the channels I follow and blogs/websites I frequent, p
 
 ---
 
-> \* Click the link, then calm down before you burst a blood vessel you silly sausage
+> \* Click the link, then calm down before you burst a blood vessel you silly sausage :) 
