@@ -3,7 +3,7 @@ layout: post
 tags: chaos 40k court painting schemes
 description: "Coming up with a Paint Scheme"
 data: 2023-11-07 17:00:00 +0000
-published: false
+published: true
 ---
 
 Deciding on a paint scheme is truly one of the most difficult things ever.
