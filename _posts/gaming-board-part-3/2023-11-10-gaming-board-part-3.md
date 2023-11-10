@@ -3,7 +3,7 @@ layout: post
 tags: gamingboard 40k mordheim crafting terrain
 title: "Making a Gaming Board: Part 3"
 description: "Part 3 of the Gaming Board build series"
-date: 2023-11-10 22:00:00 +0000
+date: 2023-11-10 13:00:00 +0000
 published: true
 ---
 
