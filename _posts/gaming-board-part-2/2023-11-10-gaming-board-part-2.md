@@ -19,10 +19,15 @@ I sort of forgot how it worked, and that you're supposed to lay a thin strip the
 
 Instead of doing that very sensible thing, I decided to make a sort of paste and just *mashed* the paper into a bowl until I had this really thick grey goop (which is one heck of a workout, just as an aside). Armed with my grey goop I started slathering it onto the inside of my chosen box.
 
-![Image of first application]()
+![The Grey Goop](https://i.imgur.com/hBkhCUa.jpg)
+*The Grey Goop*
+
+![Image of first application](https://i.imgur.com/d7OeIb4.jpg)
 *Grey goop being applied to the inside of the box, I'm oblivious to the pain I am inflicting on myself at this point*
 
 I made some paths, some "tunnel entrances" made a little hole that was going to be a puddle of resin at the end, I had big plans!
+
+![Goop Applied](https://i.imgur.com/LL86BGr.jpg)
 
 OK, so anyone who's dealt with paper mache before is probably laughing, so my mistake is that you *are supposed* to do thin layers, you are **not supposed** to dollop whopping great lumps of the stuff all over a piece of wood that isn't going to allow it to breathe and dry out otherwise it'll start going mouldy.
 
@@ -30,7 +35,7 @@ The other issue I had is that it's recommended to dry paper mache relatively qui
 
 I didn't do that, mostly because I don't have an oven big enough for a 60x60cm wooden box to fit in. I did blast it with a hairdryer for a bit, and left it by the radiator with the heating on. Feeling pleased with my work (and oblivious to my mistakes), I left it overnight, came back the next morning and it was looking OK. Still damp in places but it had only been "a few hours", so off to work I went.
 
-![Overnight image]()
+![Overnight image](https://i.imgur.com/Af4i4pL.jpg)
 
 Came back from work that night to check on the drying progress, I thought leaving it under the window with the sun shining on it would help, but it was still damp to the touch. "No worries" I thought, "should be sound by tomorrow".
 
@@ -38,9 +43,14 @@ Next morning (so around 36 hours later) and the thicker parts are still *moist* 
 
 Come home from work that night and the smell hit me straight away, a mossy damp kinda smell. And that's when I noticed the colour of parts of it beginning to change, specially in the corners and the thicker areas. 
 
+![The Source of the smell](https://i.imgur.com/yVOS4Yw.jpg)
+*Paper Mache shouldn't be yellow*
+
 *It was at this moment, I knew, that I had f\*\*\*\*\*d up!*
 
 The *next* 48 hours consisted of my attempts to save my poor box using a hairdryer and a heat gun, which were partly successful, although I didn't manage to save the original design of the edges, all that had to come out including the little support beams ='\(
+
+![Weapon of Choice](https://i.imgur.com/5kxAXP1.jpg)
 
 After my rescue attempts this is what it now looks like:
 
