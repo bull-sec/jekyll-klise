@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: Random Enemy Table
+tags: 30k hungryhungryhippos nurglings
+description: "*loud Nurgling noises*"
+date: 2023-11-03 10:00:00 +0000
+published: false
+---
 
 
 I had an idea a while back to create a game mode that essentially takes Necromunda or Mordheim, depending on the flavour you fancied playing, and spawn random mobs for you to fight based on a table of all the "monsters" I have in my collection.
