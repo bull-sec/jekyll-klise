@@ -2,8 +2,8 @@
 layout: post
 tags: 30k horusheresy
 description: "A review of Horus Heresy: Age of Darkness"
-date: 2023-11-14 11:00:00 +0000
-published: false
+date: 2024-01-04 10:00:00 +0000
+published: true
 ---
 
 So I picked up a copy of the Horus Heresy: Age of Darkness box last week, sat down at the weekend and opened it up to have a good old mooch through the contents.
@@ -78,3 +78,5 @@ The dice seem OK, gave em a few rolls and they felt decently weighted, and I did
 I'm super excited to get started on this box.
 
 Overall it's well presented, you get so many minis, the sprues are good, and I adore the rule book even if it is very impractical to use as an actual rule book during a game.
+
+DEATH TO THE CORPSE EMPEROR!
