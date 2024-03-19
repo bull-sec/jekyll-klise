@@ -48,19 +48,25 @@ If you have some spare cash you could splash out on a "light box", these are lit
 
 [Amazon UK - LED Ring Lights](https://www.amazon.co.uk/Dimmable-Brightness-Flexible-Gooseneck-Painting/dp/B0CQYM7699/ref=sr_1_17?crid=2S4K6PWKIKAHB&dib=eyJ2IjoiMSJ9.LLmKCDcUfKqiTTQfCBUO6A5Eu6Dby_iMSPBjE3_Eja4ZNp_tvM29ATozyh-TPYgBxLr42NR91YuRng97vptKZ7xAmkVpB0OwP7vU4W6an60VQZR1OESDHri_oKJ30WTrMmP3EVgAvqtYAp2eLex3ANhaj9ceWM2nLETBbIujgTKppxaqfJZGTwdpfBRJKLGTRGhKWaNv_4856GtEqkUQFCa9t5goUP0Jix4_6NzFEsSBAU-rQtCvMp3U4BEvqbHMxSAtaL-GAsd5EY63-g33CKIReo6m3JG4rtE9zot4SH8.ts8iDTdbRz3Hqdch867aoSYOFfgdNrmfJKOvGYjZAiM&dib_tag=se&keywords=led+desk+lamp+clamp&qid=1710761822&sprefix=led+desk+lamp+cl%2Caps%2C73&sr=8-17)
 
-These are great, they have a few different lighting modes, and they bend so you can get them into the right position.
+These are great, they have a few different lighting modes, and they bend so you can get them into the right position. I also found that an LED torch can be used to good effect as well, and you can pick those up really cheap.
 
 I've found plenty of free guides available on setting up the lights, you can find one linked below to get you started:
 
 [Setting up Lights for Beginners](https://shotkit.com/photography-lighting/)
 
+The TL;DR for lighting is that you want to get as much light onto your subject as possible without having too much that you get a glare off the light being reflected back into the apeture of the camera. 
+
+Trial and error is going to be key here, play around with distance, angle, and colour (if you have the option) and you'll soon figure it out. For me this is something that's easier to do than to actually explain.
+
 ## The Background
 
 The main idea here is that we either need to present the minis in an aesthetically pleasing way.
 
-There is no real right and wrong here, but there are some things you should avoid, such as backgrounds that have a lot going on, or feature unrelated art.
+There is no real right and wrong here, but there are some things you should avoid, such as backgrounds that have a lot going on, or feature unrelated art. Realistically you have 3 options, White, Black, or an image (be it a pattern or a proper image/piece of art)
 
-For example, if you were taking photos of your Chaos Warband for Mordheim you'd likely want to avoid using "Codex: Space Marines" as the background image.
+For example, if you were taking photos of your Chaos Warband for Mordheim you'd likely want to avoid using "Codex: Space Marines" as the background image and either put them on a black/white background, or something appropriately Grimdark. Likewise, if you have some bright pink Space Marines you probably don't want them walking down a medieval cobbled street. Common sense and colour theory will help you here.
+
+
 
 Below is one of the first attempts I made using an AoS battlemat I got in a copy of Stormbringer Magazine (the only copy I've ever bought). As you can see, the minis get drowned out because the background is so busy.
 
