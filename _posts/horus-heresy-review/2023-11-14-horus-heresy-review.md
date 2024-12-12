@@ -80,3 +80,5 @@ I'm super excited to get started on this box.
 Overall it's well presented, you get so many minis, the sprues are good, and I adore the rule book even if it is very impractical to use as an actual rule book during a game.
 
 DEATH TO THE CORPSE EMPEROR!
+
+(testing, 1, 2, 3)
