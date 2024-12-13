@@ -9,7 +9,7 @@ home: true
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
-    <img src="{{ post.image }}">{{ post.image | escape }}</img>
+    <img src="{{ post.image }}"></img>
   </h4>
 </article>
 {%- endfor -%}
