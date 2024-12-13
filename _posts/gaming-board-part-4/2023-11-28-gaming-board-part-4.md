@@ -5,6 +5,7 @@ title: "Making a Gaming Board: Part 4"
 description: "Part 4 of the Gaming Board build series"
 date: 2023-11-28 13:00:00 +0000
 published: true
+image: https://i.imgur.com/TX6jDAb.jpg
 ---
 
 OK, so it's been a minute since I got a chance to work on the boards, but I have made some progress! And I've been having *barrels* of fun!
