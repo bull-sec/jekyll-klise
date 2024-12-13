@@ -234,6 +234,10 @@
     border-top: 1px solid $light;
   }
 
+  .post-item img {
+    max-height: 50px;
+  }
+
   .post-item-date {
     min-width: 96px;
     color: $black;
