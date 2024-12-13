@@ -4,6 +4,7 @@ tags: 30k horusheresy
 description: "A review of Horus Heresy: Age of Darkness"
 date: 2024-01-04 10:00:00 +0000
 published: true
+image: /assets/img/post_img/crimson_court.png
 ---
 
 So I picked up a copy of the Horus Heresy: Age of Darkness box ~~last week~~ in November, ~~sat down at the weekend and opened it up to have a good old mooch through the contents~~. And these are my thoughts! :)
