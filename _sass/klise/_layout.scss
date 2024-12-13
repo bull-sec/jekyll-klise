@@ -225,24 +225,22 @@
 
 // List of posts
 .post-item {
-  display: flex;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  @extend %clearfix;
+  display: flex; // Align items in a horizontal row
+  align-items: center; // Vertically center align the items
+  justify-content: space-between; // Space out the elements
+  padding: 10px 0; // Add some padding for spacing
+  border-bottom: 1px solid $light; // Separator line for each post
+  gap: 15px; // Space between items
 
   &:not(:first-child) {
     border-top: 1px solid $light;
   }
 
-  .post-item-img {
-    max-height: 50px;
-  }
-
   .post-item-date {
-    min-width: 96px;
+    min-width: 96px; // Fixed width to keep dates aligned
     color: $black;
     font-weight: 700;
-    padding-right: 10px;
+    padding-right: 10px; // Space between date and title
 
     @include media-query($on-mobile) {
       font-size: 16px;
@@ -250,28 +248,80 @@
   }
 
   .post-item-title {
-    // margin: 0;
-    // border: 0;
-    padding: 0;
-    max-width: 100%;
-    max-height: 150px;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
+    flex: 1; // Allows the title to stretch and fill available space
     font-size: $base-font-size;
     font-weight: normal;
     letter-spacing: 0.1px;
+    text-align: left; // Ensure the text aligns properly
+    padding: 0 10px; // Space around the title
 
     a {
       color: $text-base-color;
 
       &:hover,
-      &focus {
+      &:focus {
         color: $black;
       }
     }
   }
+
+  .post-item-img {
+    max-height: 100px; // Thumbnail size
+    max-width: 100px; // Prevent distortion
+    object-fit: cover; // Maintain aspect ratio while cropping
+    border-radius: 5px; // Optional: rounded corners
+  }
 }
+
+// // List of posts
+// .post-item {
+//   display: flex;
+//   padding-top: 5px;
+//   padding-bottom: 6px;
+//   @extend %clearfix;
+
+//   &:not(:first-child) {
+//     border-top: 1px solid $light;
+//   }
+
+//   .post-item-img {
+//     max-height: 50px;
+//   }
+
+//   .post-item-date {
+//     min-width: 96px;
+//     color: $black;
+//     font-weight: 700;
+//     padding-right: 10px;
+
+//     @include media-query($on-mobile) {
+//       font-size: 16px;
+//     }
+//   }
+
+//   .post-item-title {
+//     // margin: 0;
+//     // border: 0;
+//     padding: 0;
+//     max-width: 100%;
+//     max-height: 150px;
+//     object-fit: cover;
+//     display: block;
+//     margin: 0 auto;
+//     font-size: $base-font-size;
+//     font-weight: normal;
+//     letter-spacing: 0.1px;
+
+//     a {
+//       color: $text-base-color;
+
+//       &:hover,
+//       &focus {
+//         color: $black;
+//       }
+//     }
+//   }
+// }
 
 // Footer
 .footer {
